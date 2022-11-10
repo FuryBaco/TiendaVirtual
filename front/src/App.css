@@ -32,9 +32,9 @@ nav {
 }
 
 #search_btn:hover {
-  background-color: #2551df;
-  color: white;
-  padding: 0.4rem 1.8rem;
+  background-color: #393a3d;
+  color: rgb(212, 204, 204);
+  
 }
 
 .input-group {
